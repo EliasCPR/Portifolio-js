@@ -1,25 +1,21 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Portifólio",
+  "name": "Elias Oliveira | Portifólio",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "logo.svg",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/svg+xml"
     },
     {
-      "src": "logo192.png",
+      "src": "logo.png",
       "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "124x124"
     }
   ],
-  "start_url": ".",
+  "start_url": "/?source=spa",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "scope": "public/index.html",
+  "theme_color": "#09090A",
+  "background_color": "#09090A"
 }
