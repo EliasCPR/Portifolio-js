@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-[#09090A] text-zinc-100;
+}
+.active{
+  @apply text-white bg-gray-800 border-purple-400
+}
