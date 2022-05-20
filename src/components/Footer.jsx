@@ -4,7 +4,7 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <footer className="text-gray-400 body-font absolute bottom-0 flex justify-between w-full">
+    <footer className="text-gray-400 body-font relative bottom-0 flex justify-between w-full">
       <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
         <p className="flex title-font font-medium items-center md:justify-start justify-center text-white">
           <BracketsCurly fontSize={60}/>
