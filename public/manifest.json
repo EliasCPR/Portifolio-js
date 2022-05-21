@@ -15,7 +15,6 @@
   ],
   "start_url": "/?source=spa",
   "display": "standalone",
-  "scope": "public/index.html",
   "theme_color": "#09090A",
   "background_color": "#09090A"
 }
