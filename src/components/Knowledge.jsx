@@ -29,24 +29,24 @@ export default function Knowledge() {
           description={'aqui tem uma descrição demais sobre alguma tecnologia que eu sei'}
           />
           <CardKnow icon={<Coffee size={32}/>} 
-          title={"Aqui é um titulo"}
-          description={'aqui tem uma descrição demais sobre alguma tecnologia que eu sei'}
+          title={"Linguagens de programação"}
+          description={'java (spring boot), javascript (node: nest, express, koa), PHP (laravel), elixir (phoenix).'}
           />
           <CardKnow icon={<Database size={32}/>} 
-          title={"Aqui é um titulo"}
-          description={'aqui tem uma descrição demais sobre alguma tecnologia que eu sei'}
+          title={"Banco de dados"}
+          description={'Banco de dados Relacionais (PostgreSQL, MariaDB, MYSQL) e não relacionais (Mongo DB).'}
           />
           <CardKnow icon={<FileJs size={32}/>} 
           title={"Aqui é um titulo"}
           description={'aqui tem uma descrição demais sobre alguma tecnologia que eu sei'}
           />
           <CardKnow icon={<Cpu size={32}/>} 
-          title={"Aqui é um titulo"}
-          description={'aqui tem uma descrição demais sobre alguma tecnologia que eu sei'}
+          title={"Docker"}
+          description={"Experiência com docker, sei criar docker-compose's e manipular imagens e containers"}
           />
           <CardKnow icon={<LinuxLogo size={32}/>} 
-          title={"Aqui é um titulo"}
-          description={'aqui tem uma descrição demais sobre alguma tecnologia que eu sei'}
+          title={"Sistemas operacionais"}
+          description={'Sei usar todos os sistemas operacionais, mas, atualmente uso linux (mint) para trabalhar e windows para determinadas coisas do cotidiano.'}
           />
         </div>
       </div>
